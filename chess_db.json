@@ -1,0 +1,44 @@
+[
+    {
+        "id": "b8e6d7f6-8ca6-4f98-884c-26af439f3295",
+        "first_name": "Salma",
+        "last_name": "Omar",
+        "elo": 1000,
+        "gender": "Female"
+    },
+    {
+        "id": "3dfb95f8-6254-4ab4-80e5-5926034c746b",
+        "first_name": "\u0632\u064a\u0632\u0648",
+        "last_name": "\u0645\u062d\u0645\u062f",
+        "elo": 250,
+        "gender": "Male"
+    },
+    {
+        "id": "e06d8a33-659c-4daf-b48b-a89235215814",
+        "first_name": "Khaled",
+        "last_name": "Alashram",
+        "elo": 950,
+        "gender": "Male"
+    },
+    {
+        "id": "bb95710a-c9ac-4edb-a292-29478a1ca79d",
+        "first_name": "Ahmed",
+        "last_name": "Madouse",
+        "elo": 1150,
+        "gender": "Male"
+    },
+    {
+        "id": "a408f30f-7f97-42bb-85da-dd4c6d0345bc",
+        "first_name": "Bo7a",
+        "last_name": "Sovalane",
+        "elo": 2200,
+        "gender": "Male"
+    },
+    {
+        "id": "ed535e7c-0348-4dd4-960f-b3177a643cf7",
+        "first_name": "Yassen",
+        "last_name": "Ali",
+        "elo": 2500,
+        "gender": "Male"
+    }
+]
